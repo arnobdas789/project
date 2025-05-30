@@ -8,7 +8,7 @@
 - Admin Login Details**
 
 Email	: admin@mail.com
-Password: codeastro.com
+Password: admin
 
 
 
